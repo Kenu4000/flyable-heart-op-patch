@@ -1,0 +1,15 @@
+*.exe
+*.dll
+*.obj
+*.res
+*.lib
+*.exp
+*.pdb
+*.ilk
+exports.inc
+build/
+Debug/
+Release/
+x64/
+Thumbs.db
+Desktop.ini
