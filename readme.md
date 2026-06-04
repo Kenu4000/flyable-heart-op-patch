@@ -53,7 +53,7 @@ The license for the source code contained in this repository can be found in the
 # Flyable Heart OP Patch (Source)
 
 ## 概要
-Flyable Heart の OP 再生を外部プレイヤー（mpv）に置き換える非公式パッチのソースコードです。
+Flyable HeartのOP再生を外部プレイヤー（mpv）に置き換える非公式パッチのソースコードです。
 
 このリポジトリには実行ファイルは含まれていません。  
 配布版は以下の配布ページから取得してください。
